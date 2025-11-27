@@ -1,0 +1,47 @@
+[
+  {
+    "customer_id": 101,
+    "first_name": "Ravi",
+    "last_name": "Kadav",
+    "email": "ravi@example.com",
+    "phone": "9876543217",
+    "city": "Delhi",
+    "registration_date": "2023-09-14"
+  },
+  {
+    "customer_id": 102,
+    "first_name": "Neina",
+    "last_name": "Joshi",
+    "email": "neina@example.com",
+    "phone": "9876543210",
+    "city": "Mumbai",
+    "registration_date": "2024-01-21"
+  },
+  {
+    "customer_id": 103,
+    "first_name": "Komal",
+    "last_name": "Sharma",
+    "email": "komal@example.com",
+    "phone": "9876542199",
+    "city": "Bangalore",
+    "registration_date": "2023-07-10"
+  },
+  {
+    "customer_id": 104,
+    "first_name": "Karan",
+    "last_name": "Patel",
+    "email": "karan@example.com",
+    "phone": "9887451089",
+    "city": "Hyderabad",
+    "registration_date": "2024-02-05"
+  },
+  {
+    "customer_id": 105,
+    "first_name": "User5",
+    "last_name": "Singh",
+    "email": "user5@example.com",
+    "phone": "9876540087",
+    "city": "Chennai",
+    "registration_date": "2023-11-30"
+  }
+]
